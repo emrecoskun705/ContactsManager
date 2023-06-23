@@ -1,6 +1,6 @@
 # AspNetExample
 
-From this project I learnd basics and adnvanced features of ASP.NET Core. Here are the things that this project contains.
+From this project I learnd basics and advanced features of ASP.NET Core. Here are the things that this project contains.
 
 - Middleware
 - Routing
@@ -17,4 +17,5 @@ From this project I learnd basics and adnvanced features of ASP.NET Core. Here a
 - SOLID Principles
 - Clean Architecture
 - Identity and Authorization
+- Logging 
 
